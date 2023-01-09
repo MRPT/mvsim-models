@@ -1,6 +1,6 @@
 #!/bin/bash
 
-llgal -su --gc
+llgal -suaf
 
 rm -fr thumbs
 mv .llgal thumbs
