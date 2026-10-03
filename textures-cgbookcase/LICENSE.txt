@@ -3,7 +3,8 @@ License: CC0 1.0 license
 Author: Dorian Zgraggen https://www.dorianzgraggen.com/
 
 
-Normal maps (*_Normal.png, *_normal.png) use the OpenGL convention (green
-points to the image top). Asphalt01, BrickWall01 and BrickWall02 normal maps
-come from cgbookcase (converted from DirectX convention). All others are
+Normal maps (*_Normal.png, *_NormalGL.png, *_normal.png) use the OpenGL
+convention (green points to the image top). Asphalt01, BrickWall01 and
+BrickWall02 normal maps (*_NormalGL.png) come from cgbookcase (converted from
+DirectX convention). All others are
 generated from the color textures with generate-all-normal-maps.sh.
