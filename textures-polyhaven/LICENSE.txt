@@ -13,3 +13,5 @@ Real-world size of each texture (one tile), and authors:
 - white_plaster_02: 1.00 x 1.00 m. https://polyhaven.com/a/white_plaster_02 Authors: Rob Tuytel (All)
 - beige_wall_001: 3.00 x 3.00 m. https://polyhaven.com/a/beige_wall_001 Authors: Dimitrios Savva (Photography), Rico Cilliers (Processing)
 - long_white_tiles: 1.27 x 1.27 m. https://polyhaven.com/a/long_white_tiles Authors: Jenelle van Heerden (processing), Sergej Majboroda (photography)
+- fabric_pattern_07: 0.40 x 0.40 m. https://polyhaven.com/a/fabric_pattern_07 Authors: Rob Tuytel (All)
+- concrete_pavers_02: 2.00 x 2.00 m. https://polyhaven.com/a/concrete_pavers_02 Authors: Amal Kumar (All)
