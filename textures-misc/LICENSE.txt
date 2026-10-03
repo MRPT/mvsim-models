@@ -1,0 +1,3 @@
+hazard_stripes.png: yellow and black diagonal hazard stripes, tileable.
+Generated procedurally for the MVSim demo worlds.
+License: CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/)
